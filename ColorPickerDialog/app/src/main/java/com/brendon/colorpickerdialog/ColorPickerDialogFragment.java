@@ -9,6 +9,8 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 
+
+
 public class ColorPickerDialogFragment extends DialogFragment{
 
     // The data is the text to be displayed in the dialog's list
