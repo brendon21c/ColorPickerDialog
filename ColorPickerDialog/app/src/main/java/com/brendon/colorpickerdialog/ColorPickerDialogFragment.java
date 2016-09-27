@@ -61,7 +61,7 @@ public class ColorPickerDialogFragment extends DialogFragment{
                     public void onClick(DialogInterface dialogInterface, int which) {
 
 
-                        mListener.colorSelected(which);
+                        mListener.colorSelected(COLOR_VALUES[which]);
                     }
                 });
 
